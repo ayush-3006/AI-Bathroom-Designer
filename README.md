@@ -102,3 +102,6 @@ is included for completeness but not currently wired into the bundle logic.
   work but are slower and use more tokens than a plain instruct model for this kind
   of structured-extraction task. A non-reasoning instruct model is recommended.
 
+
+## Video Demonstration Link-
+-https://drive.google.com/file/d/1cZhJzyW5vpeRltlqs8BlhOtH_BZs-peI/view?usp=sharing
