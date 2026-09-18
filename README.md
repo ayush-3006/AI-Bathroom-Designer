@@ -1,4 +1,4 @@
-# Kohler AI Bathroom Designer — conversational prototype
+# Kohler AI Bathroom Designer ,conversational prototype
 
 A split-screen tool: chat with an AI design assistant on the left, watch a live
 interactive 2D floor plan build itself on the right as it learns your room, budget,
