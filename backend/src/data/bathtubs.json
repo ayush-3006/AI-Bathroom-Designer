@@ -1,0 +1,84 @@
+{
+  "category": "bathtubs",
+  "source_notes": "Dimensions sourced from RetailBook_2025.pdf (Bathing spread, pages 190-193). Prices sourced from PriceBooK.pdf, matched by exact product code. Spans three tub types (soaking, whirlpool, freestanding) and the full budget-to-luxury price range so the recommendation engine has real filtering headroom for a bathtub-inclusive bundle.",
+  "products": [
+    {
+      "sku": "K-15847T-0",
+      "collection": "Reach",
+      "description": "Drop-in acrylic bathtub",
+      "finish_color": "white",
+      "type": "soaking tub, drop-in",
+      "dimensions_mm": { "length": 1500, "width": 700, "height": 460 },
+      "price_inr": 31000,
+      "tier": "budget",
+      "must_order": ["Bath drain in polished chrome (K-17295T-CP)"]
+    },
+    {
+      "sku": "K-18775T-0",
+      "collection": "Duo",
+      "description": "Drop-in acrylic bathtub",
+      "finish_color": "white",
+      "type": "soaking tub, drop-in",
+      "dimensions_mm": { "length": 1670, "width": 762, "height": 430 },
+      "price_inr": 42000,
+      "tier": "budget-mid",
+      "must_order": ["Bath drain in polished chrome (K-17295T-CP)"]
+    },
+    {
+      "sku": "K-1707T-Z-0",
+      "collection": "Ove",
+      "description": "1.7M drop-in acrylic bathtub",
+      "finish_color": "white",
+      "type": "soaking tub, drop-in",
+      "dimensions_mm": { "length": 1700, "width": 750, "height": 470 },
+      "price_inr": 58000,
+      "tier": "mid",
+      "must_order": ["Bath drain in polished chrome (K-17295T-CP)"]
+    },
+    {
+      "sku": "K-1404IN-K-0",
+      "collection": "Hourglass",
+      "description": "Drop-in acrylic whirlpool",
+      "finish_color": "white",
+      "type": "whirlpool, drop-in",
+      "dimensions_mm": { "length": 1524, "width": 813, "height": 508 },
+      "price_inr": 127000,
+      "tier": "premium",
+      "must_order": ["Bath drain in polished chrome (K-17295T-CP)"],
+      "optional": ["Removable pillow in black (K-1491T-7)"]
+    },
+    {
+      "sku": "K-1709IN-K-0",
+      "collection": "Ove",
+      "description": "Drop-in acrylic whirlpool without pillow",
+      "finish_color": "white",
+      "type": "whirlpool, drop-in",
+      "dimensions_mm": { "length": 1700, "width": 750, "height": 470 },
+      "price_inr": 165000,
+      "tier": "premium",
+      "must_order": ["Bath drain in polished chrome (K-17295T-CP)"]
+    },
+    {
+      "sku": "K-20627IN-K-0",
+      "collection": "Hourglass",
+      "description": "Integrated acrylic whirlpool (includes pillow, drain, two side aprons)",
+      "finish_color": "white",
+      "type": "whirlpool, integrated",
+      "dimensions_mm": { "length": 1528, "width": 817, "height": 577 },
+      "price_inr": 218500,
+      "tier": "luxury",
+      "note": "Integrated model — faucet, apron and drain pre-installed, unlike drop-in models above."
+    },
+    {
+      "sku": "K-25164T-0",
+      "collection": "Evok 2.0",
+      "description": "1.7M seamless rectangular freestanding bathtub",
+      "finish_color": "white",
+      "type": "freestanding",
+      "dimensions_mm": { "length": 1700, "width": 750, "height": 610 },
+      "price_inr": 200000,
+      "tier": "luxury",
+      "note": "Statement piece — requires floor-mount or freestanding bath filler (see Bath Fillers), not a wall-supply tub."
+    }
+  ]
+}

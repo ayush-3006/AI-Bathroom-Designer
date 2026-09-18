@@ -1,0 +1,126 @@
+{
+  "category": "kohler_styling_space",
+  "source_notes": "Covers the 'Styling Space' chapter of RetailBook_2025.pdf (mirrors + vanities, pages 92-109). Wash basins/vessels and faucets are intentionally excluded here since they already have their own dataset files. Dimensions sourced from RetailBook_2025.pdf, prices from PriceBooK.pdf, matched by exact product code.",
+  "subcategories": {
+    "mirrors": {
+      "products": [
+        {
+          "sku": "K-26050IN-BGL",
+          "collection": "Essential",
+          "description": "712mm round mirror, non-lighted",
+          "finish_color": "brushed gold",
+          "type": "non-lighted mirror",
+          "dimensions_mm": { "diameter": 716, "thickness": 35 },
+          "price_inr": 18000,
+          "tier": "budget",
+          "also_available_in": ["Matte Black (K-26050IN-BLL)"]
+        },
+        {
+          "sku": "K-30637IN-BGL",
+          "collection": "Essential",
+          "description": "610mm x 914mm arch mirror, non-lighted",
+          "finish_color": "brushed gold",
+          "type": "non-lighted mirror",
+          "dimensions_mm": { "width": 610, "height": 914, "thickness": 35 },
+          "price_inr": 20500,
+          "tier": "budget",
+          "also_available_in": ["Matte Black (K-30637IN-BLL)"]
+        },
+        {
+          "sku": "K-31646IN-NA",
+          "collection": "Vitality",
+          "description": "600mm perimeter lighted mirror",
+          "finish_color": "n/a (LED perimeter)",
+          "type": "lighted mirror",
+          "dimensions_mm": { "width": 600, "height": 600, "thickness": 30 },
+          "price_inr": 35000,
+          "tier": "mid"
+        },
+        {
+          "sku": "K-37878IN-NA",
+          "collection": "ModernLife Edge",
+          "description": "600mm x 900mm oval lighted mirror",
+          "finish_color": "n/a (LED)",
+          "type": "lighted mirror",
+          "dimensions_mm": { "width": 600, "height": 900, "thickness": 30 },
+          "price_inr": 38500,
+          "tier": "mid"
+        },
+        {
+          "sku": "K-31389IN-NA",
+          "collection": "Vive",
+          "description": "705mm round lighted mirror",
+          "finish_color": "n/a (LED)",
+          "type": "lighted mirror",
+          "dimensions_mm": { "diameter": 705, "thickness": 30 },
+          "price_inr": 44000,
+          "tier": "mid-upper"
+        },
+        {
+          "sku": "K-77115IN-NA",
+          "collection": "Ming",
+          "description": "800mm lighted mirror with proximity sensor",
+          "finish_color": "n/a (LED)",
+          "type": "lighted mirror, smart (proximity sensor)",
+          "dimensions_mm": { "width": 800, "height": 800 },
+          "price_inr": 65000,
+          "tier": "premium"
+        }
+      ]
+    },
+    "vanities": {
+      "products": [
+        {
+          "sku": "K-28782IN-0",
+          "collection": "n/a",
+          "description": "Vanity top with single faucet hole",
+          "finish_color": "white",
+          "type": "vanity top (counter only, not full cabinet)",
+          "dimensions_mm": { "width": 720, "depth": 520 },
+          "price_inr": 27800,
+          "tier": "budget"
+        },
+        {
+          "sku": "K-2749T-1-0",
+          "collection": "Forefront",
+          "description": "Vanity top with single faucet hole",
+          "finish_color": "white",
+          "type": "vanity top (counter only, not full cabinet)",
+          "dimensions_mm": { "width": 900, "depth": 521 },
+          "price_inr": 53500,
+          "tier": "mid"
+        },
+        {
+          "sku": "K-28741IN-RWP",
+          "collection": "Foreward",
+          "description": "Vanity with rattan weave pattern (full cabinet, top sold separately)",
+          "finish_color": "rattan weave",
+          "type": "vanity cabinet",
+          "dimensions_mm": { "width": 867, "note": "Additional callouts of 751mm/486mm/551mm appear on the spec drawing (front + side view) but the text layer did not make clear which is depth vs. height — verify against the visual spec sheet before using for layout fit." },
+          "price_inr": 71400,
+          "tier": "premium"
+        },
+        {
+          "sku": "K-30457IN-PSH",
+          "collection": "Vanity 750",
+          "description": "Vanity in PU finish - light taupe (full cabinet)",
+          "finish_color": "light taupe",
+          "type": "vanity cabinet",
+          "dimensions_mm": { "width_inferred": 750, "note": "Width inferred from product name ('750'); depth/height not listed in either source document — confirm with dealer spec sheet before using for layout fit." },
+          "price_inr": 117950,
+          "tier": "luxury"
+        },
+        {
+          "sku": "K-30457IN-MWF",
+          "collection": "Vanity 750",
+          "description": "Vanity in MEM finish - natural oak (full cabinet)",
+          "finish_color": "natural oak",
+          "type": "vanity cabinet",
+          "dimensions_mm": { "width_inferred": 750, "note": "Width inferred from product name; depth/height not documented in source — confirm with dealer." },
+          "price_inr": 116950,
+          "tier": "luxury"
+        }
+      ]
+    }
+  }
+}

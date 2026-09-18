@@ -1,0 +1,60 @@
+{
+  "category": "showers",
+  "source_notes": "Dimensions sourced from RetailBook_2025.pdf (Showering spread, pages 219 & 227). Mix of standalone showerheads, a non-thermostatic bath/shower valve, and two premium multifunction rainpanels — spans the full budget-to-luxury range intentionally. Prices sourced from PriceBooK.pdf, matched by exact product code.",
+  "products": [
+    {
+      "sku": "K-34050IN-CP",
+      "collection": "APT Square",
+      "description": "Single function showerhead without shower arm",
+      "finish_color": "polished chrome",
+      "type": "fixed overhead showerhead",
+      "dimensions_mm": { "width": 152, "length": 152 },
+      "price_inr": 3620,
+      "tier": "budget",
+      "must_order": ["Wall mount shower arm (K-99054IN-CP)", "Overhead shower arm (K-16346IN-CP)"]
+    },
+    {
+      "sku": "K-36211IN-CP",
+      "collection": "APT Wide",
+      "description": "Rectangle single function showerhead without shower arm",
+      "finish_color": "polished chrome",
+      "type": "fixed overhead showerhead",
+      "dimensions_mm": { "width": 181, "length": 141 },
+      "price_inr": 3830,
+      "tier": "budget",
+      "must_order": ["Wall mount shower arm (K-99054IN-CP)", "Overhead shower arm (K-16346IN-CP)"]
+    },
+    {
+      "sku": "K-34080IN-4-CP",
+      "collection": "APT",
+      "description": "Non-thermostatic bath and shower valve, exposed",
+      "finish_color": "polished chrome",
+      "type": "shower/bath mixing valve",
+      "dimensions_mm": { "width": 302, "depth": 179, "height": 154 },
+      "price_inr": 8670,
+      "tier": "mid"
+    },
+    {
+      "sku": "K-77276IN-L-CP",
+      "collection": "Beitou",
+      "description": "Rectangle 600mm x 800mm multifunction (3F) rainpanel",
+      "finish_color": "polished chrome",
+      "type": "multifunction rainpanel system",
+      "dimensions_mm": { "width": 600, "length": 800 },
+      "price_inr": 545800,
+      "tier": "luxury",
+      "features": ["Katalyst Air Rain Shower", "Kinetic Spray", "Laminar flow", "Ambient hydro-powered light"]
+    },
+    {
+      "sku": "K-97168IN-CP",
+      "collection": "Loure",
+      "description": "Rectangle 600mm x 800mm multifunction (4F) rainpanel",
+      "finish_color": "polished chrome",
+      "type": "multifunction rainpanel system",
+      "dimensions_mm": { "width": 600, "length": 800 },
+      "price_inr": 700100,
+      "tier": "luxury",
+      "features": ["Katalyst Air Rain Shower", "Cascade", "Hydro Massage", "Rain Curtain", "4 LED colour-changing lights"]
+    }
+  ]
+}

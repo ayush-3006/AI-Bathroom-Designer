@@ -1,0 +1,66 @@
+{
+  "category": "toilets",
+  "source_notes": "Dimensions sourced from RetailBook_2025.pdf (spec pages 59-63). Prices sourced from PriceBooK.pdf (2026 June edition), matched by exact product code. All dimensions in mm, price in INR (MRP, incl. all taxes).",
+  "products": [
+    {
+      "sku": "K-18131IN-S-0",
+      "collection": "Patio",
+      "description": "Wall hung toilet with Quiet-Close seat cover",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 535, "depth": 361, "height": 365, "p_trap": 210 },
+      "price_inr": 11500,
+      "tier": "budget",
+      "must_order": ["Plastic outlet connector (K-1527926)"]
+    },
+    {
+      "sku": "K-20217IN-S-0",
+      "collection": "Trace",
+      "description": "Rimless wall hung toilet with Quiet-Close slim seat cover",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 544, "depth": 362, "height": 399, "p_trap": null },
+      "price_inr": 20000,
+      "tier": "mid",
+      "must_order": ["Plastic outlet connector (K-1527926)"]
+    },
+    {
+      "sku": "K-26998IN-7",
+      "collection": "Vive",
+      "description": "Rimless wall hung toilet with Quiet-Close slim seat cover",
+      "finish_color": "black",
+      "dimensions_mm": { "width": 346, "depth": 557, "height": 400, "p_trap": 205 },
+      "price_inr": 36500,
+      "tier": "mid-upper",
+      "must_order": ["Plastic outlet connector (K-1527926)"]
+    },
+    {
+      "sku": "K-27791IN-0",
+      "collection": "ModernLife Edge",
+      "description": "True rimless wall hung toilet with Quiet-Close UF seat cover",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 540, "depth": 360, "height": 350, "p_trap": 200 },
+      "price_inr": 47000,
+      "tier": "premium",
+      "must_order": ["Plastic outlet connector (K-1527926)"]
+    },
+    {
+      "sku": "K-75708IN-7",
+      "collection": "Veil",
+      "description": "Rimless wall hung toilet with Quiet-Close slim seat cover",
+      "finish_color": "black",
+      "dimensions_mm": { "width": 554, "depth": 384, "height": 333, "p_trap": 205 },
+      "price_inr": 50000,
+      "tier": "premium",
+      "must_order": ["Plastic outlet connector (K-1527926)"]
+    },
+    {
+      "sku": "K-27791IN-HP1",
+      "collection": "ModernLife Edge",
+      "description": "True rimless wall hung toilet with Quiet-Close UF seat cover",
+      "finish_color": "honed peacock",
+      "dimensions_mm": { "width": 540, "depth": 360, "height": 350, "p_trap": 200 },
+      "price_inr": 67000,
+      "tier": "luxury",
+      "must_order": ["Plastic outlet connector (K-1527926)"]
+    }
+  ]
+}

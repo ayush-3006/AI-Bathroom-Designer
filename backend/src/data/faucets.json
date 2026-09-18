@@ -1,0 +1,46 @@
+{
+  "category": "faucets",
+  "source_notes": "Dimensions sourced from RetailBook_2025.pdf (Faucets spread, page 169). All finished in polished chrome (also available in other finishes per catalog, not itemized here). Prices sourced from PriceBooK.pdf, matched by exact product code.",
+  "products": [
+    {
+      "sku": "K-27489IN-4ND-CP",
+      "collection": "Fore Arc",
+      "description": "Cold-only wall mount basin faucet trim",
+      "finish_color": "polished chrome",
+      "dimensions_mm": { "spout_reach": 178, "spout_height": 70, "base_width": 70 },
+      "price_inr": 3940,
+      "tier": "budget",
+      "must_order": ["Trim only, requires valve (sold separately)"]
+    },
+    {
+      "sku": "K-27486IN-4-CP",
+      "collection": "Fore Arc",
+      "description": "Pillar tap (basin faucet)",
+      "finish_color": "polished chrome",
+      "dimensions_mm": { "height": null, "base_width": null },
+      "price_inr": 4170,
+      "tier": "budget",
+      "also_available_in": ["French Gold"]
+    },
+    {
+      "sku": "K-33102IN-4-CP",
+      "collection": "Accliv",
+      "description": "Tall pillar tap (basin faucet)",
+      "finish_color": "polished chrome",
+      "dimensions_mm": { "height": 215, "base_width": 160, "spout_projection": 91 },
+      "price_inr": 4930,
+      "tier": "mid",
+      "also_available_in": ["French Gold"]
+    },
+    {
+      "sku": "K-27483IN-4ND-CP",
+      "collection": "Fore Arc",
+      "description": "Single-control wall mount basin faucet trim",
+      "finish_color": "polished chrome",
+      "dimensions_mm": { "spout_reach": 178, "spout_height": 60, "base_width": 60 },
+      "price_inr": 5460,
+      "tier": "mid",
+      "must_order": ["Trim only, requires valve (sold separately)"]
+    }
+  ]
+}

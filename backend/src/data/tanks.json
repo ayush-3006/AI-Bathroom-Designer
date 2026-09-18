@@ -1,0 +1,42 @@
+{
+  "category": "in_wall_tanks",
+  "source_notes": "Dimensions sourced from RetailBook_2025.pdf (Evo In-Wall Tank Range spread, page 71). Frame height figures were ambiguous in the source layout (overlapping multi-column dimension callouts) so they are flagged approximate. Prices sourced from PriceBooK.pdf, matched by exact product code.",
+  "products": [
+    {
+      "sku": "K-33926IN-P-0",
+      "collection": "EvoFlush",
+      "description": "Pneumatic frameless in-wall tank",
+      "finish_color": "n/a (concealed)",
+      "frame_type": "frameless",
+      "dimensions_mm": { "width": 440, "depth": 114, "height_approx": 827 },
+      "price_inr": 7200,
+      "tier": "budget",
+      "must_order": ["Drain Connector Assy OW (K-1355356)"],
+      "note": "Mechanical variant K-33926IN-M-0 same price, same dims."
+    },
+    {
+      "sku": "K-33929IN-P-0",
+      "collection": "EvoFit",
+      "description": "Pneumatic in-wall tank with half frame",
+      "finish_color": "n/a (concealed)",
+      "frame_type": "half frame",
+      "dimensions_mm": { "width": 494, "depth": 114, "height_approx": 979 },
+      "price_inr": 11200,
+      "tier": "mid",
+      "must_order": ["Drain Connector Assy OW (K-1355356)"],
+      "note": "Mechanical variant K-33929IN-M-0 same price, same dims."
+    },
+    {
+      "sku": "K-33931IN-P-0",
+      "collection": "EvoFit+",
+      "description": "Pneumatic in-wall tank with full frame",
+      "finish_color": "n/a (concealed)",
+      "frame_type": "full frame",
+      "dimensions_mm": { "width": 476, "depth": 113, "height_approx": 1180 },
+      "price_inr": 14500,
+      "tier": "premium",
+      "must_order": ["Drain Connector Assy OW (K-1355356)"],
+      "note": "Mechanical variant K-33931IN-M-0 same price, same dims. Also requires a compatible faceplate (sold separately, see faceplates section) — not included in this file per category scope."
+    }
+  ]
+}

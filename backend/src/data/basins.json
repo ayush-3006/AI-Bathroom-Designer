@@ -1,0 +1,66 @@
+{
+  "category": "wash_basins_vessels",
+  "source_notes": "Dimensions sourced from RetailBook_2025.pdf (Vessels spread, pages 125-126). All are countertop vessel basins (sit on top of counter). Prices sourced from PriceBooK.pdf, matched by exact product code. Depth figures below refer to bowl depth (how deep the basin is), not counter clearance.",
+  "products": [
+    {
+      "sku": "K-2200IN-0",
+      "collection": "Conical Bell",
+      "description": "Vessel basin without faucet hole",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 413, "length": 413, "bowl_depth": 111 },
+      "price_inr": 8000,
+      "tier": "budget",
+      "must_order": ["Bottle trap 350mm (K-75823IN-CP)"]
+    },
+    {
+      "sku": "K-34251IN-0",
+      "collection": "APT",
+      "description": "Rectangular vessel basin with single faucet hole",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 551, "length": 462, "bowl_depth": 103 },
+      "price_inr": 8200,
+      "tier": "budget",
+      "must_order": ["Drain and bottle trap 350mm (K-75823IN-CP, K-20746IN-0)"]
+    },
+    {
+      "sku": "K-2200IN-7",
+      "collection": "Conical Bell",
+      "description": "Vessel basin without faucet hole",
+      "finish_color": "black",
+      "dimensions_mm": { "width": 413, "length": 413, "bowl_depth": 111 },
+      "price_inr": 10000,
+      "tier": "mid",
+      "must_order": ["Bottle trap 350mm (K-75823IN-CP)"]
+    },
+    {
+      "sku": "K-29024IN-1-0",
+      "collection": "Chalice Round",
+      "description": "Round basin with single faucet hole",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 470, "length": 470, "bowl_depth": 116 },
+      "price_inr": 10000,
+      "tier": "mid",
+      "must_order": ["Bottle trap 350mm and grid drain (K-75823IN-CP, K-20746IN-0)"]
+    },
+    {
+      "sku": "K-14800X-0",
+      "collection": "Chalice Round",
+      "description": "Vessel basin without faucet hole",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 420, "length": 420, "bowl_depth": 146 },
+      "price_inr": 10500,
+      "tier": "mid",
+      "must_order": ["Grid drain (K-45432IN-CP)"]
+    },
+    {
+      "sku": "K-75376IN-1-0",
+      "collection": "Trace",
+      "description": "Vessel basin with single faucet hole",
+      "finish_color": "white",
+      "dimensions_mm": { "width": 600, "length": 440, "bowl_depth": 125 },
+      "price_inr": 21500,
+      "tier": "premium",
+      "must_order": ["Ceramic drain without overflow (K-24740IN-0)"]
+    }
+  ]
+}
