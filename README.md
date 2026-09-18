@@ -59,7 +59,6 @@ for RAG - no separate signup.
 ```bash
 cd backend
 npm install
-cp .env.example .env
 # edit .env and paste your NVIDIA_API_KEY
 npm run dev
 ```
